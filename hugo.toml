@@ -1,0 +1,28 @@
+baseURL = 'https://www.maxkuttner.xyz/'
+languageCode = 'en-us'
+title = 'Max Kuttner'
+theme = 'hugo-bearblog'
+
+author = "Max Kuttner"
+copyright = "Copyright © 2026, Max Kuttner."
+
+enableRobotsTXT = true
+
+disableKobs = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[permalinks]
+  blog = "/:slug/"
+
+[params]
+  description = "Personal website of Max Kuttner"
+  favicon = "images/favicon.png"
+  images = ["images/share.png"]
+  title = "Max Kuttner"
+
+[markup]
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
