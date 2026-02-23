@@ -4,9 +4,9 @@ menu = "main"
 weight = 1
 +++
 
-# Hi, I'm Max
+# Hi, I am Max
 
-How are you doing? How was you weekend?
+How are you doing? How was your weekend?
 
 Gooooood. Goood. Good.
 
