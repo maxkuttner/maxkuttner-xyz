@@ -21,16 +21,4 @@ What can I do for you? ☕
 
 ## Interesting Links
 
-A collection of links I find interesting or useful.
-
-### Development
-- [GitHub](https://github.com) - Where I host most of my code
-- [Hacker News](https://news.ycombinator.com) - Daily tech news
-
-### Tools
-- [Raycast](https://raycast.com) - Spotlight on steroids for macOS
-- [Arc Browser](https://arc.net) - The browser from the future
-
-### Learning
-- [LeetCode](https://leetcode.com) - Practice coding problems
-- [Exercism](https://exercism.org) - Code learning platform
+- [UFW Docker Firewall Bypass Fix](https://zeonedge.com/es/blog/ufw-docker-firewall-bypass-fix) - How to fix UFW firewall rules with Docker
