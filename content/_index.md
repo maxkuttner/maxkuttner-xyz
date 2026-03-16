@@ -21,4 +21,5 @@ What can I do for you? ☕
 
 ## Interesting Links
 
-- [UFW Docker Firewall Bypass Fix](https://zeonedge.com/es/blog/ufw-docker-firewall-bypass-fix) - How to fix UFW firewall rules with Docker
+- [Docker Firewall Bypass Fix](https://zeonedge.com/es/blog/ufw-docker-firewall-bypass-fix) - How to fix UFW firewall rules with Docker
+- [Windows Notepad Vulnerability](https://news.ycombinator.com/item?id=46971516) - Shell execution with windows notepad .md links
