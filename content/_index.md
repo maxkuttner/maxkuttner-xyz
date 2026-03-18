@@ -23,3 +23,5 @@ What can I do for you? ☕
 
 - [Docker Firewall Bypass Fix](https://zeonedge.com/es/blog/ufw-docker-firewall-bypass-fix) - How to fix UFW firewall rules with Docker
 - [Windows Notepad Vulnerability](https://news.ycombinator.com/item?id=46971516) - Shell execution with windows notepad .md links
+- [Why do futures have a value of zero](https://quant.stackexchange.com/questions/32984/why-futures-contract-has-no-value) - Explanation on why we model futures (financial contracts) to have a value close to zero
+
