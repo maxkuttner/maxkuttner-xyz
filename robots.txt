@@ -1,2 +1,2 @@
-User-Agent: *
-Sitemap: https://www.maxkuttner.xyz/sitemap.xml
+User-agent: *
+Allow: /
