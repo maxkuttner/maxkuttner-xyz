@@ -96,10 +96,15 @@ h1.title {
 }
 
 /* content */
-p.content {
-  max-width: 560px;
+p.content,
+.about-content p {
+  font-size: 13px;
   line-height: 1.75;
   color: var(--text);
+}
+
+p.content {
+  max-width: 560px;
 }
 
 /* socials */
@@ -143,7 +148,6 @@ footer a:hover {
 /* about page */
 .about-content {
   max-width: 560px;
-  line-height: 1.75;
   margin-top: 8px;
 }
 
