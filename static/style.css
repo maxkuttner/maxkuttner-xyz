@@ -12,6 +12,11 @@
   padding: 0;
 }
 
+html {
+  scrollbar-gutter: stable;
+  overflow-y: scroll;
+}
+
 ul {
   list-style-type: none;
 }
