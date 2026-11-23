@@ -199,17 +199,6 @@ footer a:hover {
   margin-bottom: 3px;
 }
 
-.project-bullets {
-  margin: 6px 0 0;
-  padding-left: 17px;
-  color: var(--text);
-  line-height: 1.7;
-}
-
-.project-bullets a {
-  color: var(--link);
-}
-
 .project-desc {
   color: var(--text);
   line-height: 1.7;
